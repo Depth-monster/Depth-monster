@@ -1,17 +1,16 @@
 name: Latest YouTube Videos
 on:
-  schedule:
-    - cron: '0 0 * * *' # Run every day
-  workflow_dispatch:
+  schedule: 
+    - cron: '0 * * * *' # Run every hour
+  workflow_dispatch: 
 
 jobs:
-  update-readme-with-youtube:
-    name: Update this repo's README with latest YouTube videos
+ youtube:
+    name: latest YouTube videos
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in YouTube videos
-        uses: gautamkrishnar/youtube-video-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          channel_id: "UC-reactjsjunior"
+        comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=reactjunior"
