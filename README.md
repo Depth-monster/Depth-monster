@@ -1,6 +1,6 @@
 <!-- [![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.gif)](https://www.youtube.com/@reactjunior) -->
 <p align="center">
-  <img src="./AzatX.png" alt="Image" width="500" height="300" style="object-position:center;">
+  <img src="../assets/AzatX.png" alt="Image" width="500" height="300" style="object-position:center;">
 </p>
 
 ## I'm a beginner YouTube vlogger and Frontend developer
