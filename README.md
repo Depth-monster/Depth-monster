@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-[![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior) 
-=======
+
 [![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior)
->>>>>>> 41e96e5ce55f3b47d05d8f3bc94b20d8d754c4cc
+
 
 
 ## I'm a beginner YouTube vlogger and Frontend developer
@@ -28,5 +26,3 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1a1a1a?style=for-the-badge&logo=Vk&logoColor=80bfff)](https://vk.com/azat_hajy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
 
-
-![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=depth-monster&theme=radical)
