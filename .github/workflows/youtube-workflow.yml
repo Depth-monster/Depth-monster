@@ -1,16 +1,18 @@
-name: Latest YouTube Videos
+name: GitHub Readme YouTube Cards
 on:
-  schedule: 
-    - cron: '0 * * * *' # Run every hour
-  workflow_dispatch: 
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
- youtube:
-    name: latest YouTube videos
+  deploy:
     runs-on: ubuntu-latest
     steps:
-        uses: actions/checkout@v2
-        uses: gautamkrishnar/blog-post-workflow@main
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-        comment_tag_name: "YOUTUBE-VIDEOS-LIST"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFf1USdhTyD3zSIuKDw7VQg"
+          channel_id: UCipSxT7a3rn81vGLw9lqRkg
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+          output_type: html
