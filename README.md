@@ -1,4 +1,4 @@
-[![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/Azat.png)](https://www.youtube.com/@reactjunior)
+[![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior)
 
 # I'm a beginner YouTube vlogger and Frontend developer
 
