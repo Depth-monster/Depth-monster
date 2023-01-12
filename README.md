@@ -4,7 +4,7 @@
 
 Latest YouTube videos
 
-###Language and Tools
+### Language and Tools
 
 ![React](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=0000ff)
 ![Redux](https://img.shields.io/badge/-Redux-1a1a1a?style=for-the-badge&logo=redux&logoColor=0066ff)
@@ -14,7 +14,7 @@ Latest YouTube videos
 
 
 
-###Follow Me
+### Follow Me
 
 [![YouTube](https://img.shields.io/badge/-youtube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@reactjunior)
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1a1a?style=for-the-badge&logo=Telegram&logoColor=80bfff)](https://t.me/type_me_something)
