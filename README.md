@@ -1,7 +1,5 @@
-<!-- [![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.gif)](https://www.youtube.com/@reactjunior) -->
-<p align="center">
-  <img src="AzatX.png" alt="Image" width="500" height="300" style="object-position:center;">
-</p>
+[![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior) 
+
 
 ## I'm a beginner YouTube vlogger and Frontend developer
 
@@ -25,3 +23,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-1a1a1a?style=for-the-badge&logo=Instagram&logoColor=ff1aff)](https://www.instagram.com/azat_hajiev/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1a1a1a?style=for-the-badge&logo=Vk&logoColor=80bfff)](https://vk.com/azat_hajy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
+
+[![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Depth-monster)](https://github.com/anuraghazra/github-readme-stats)
