@@ -3,8 +3,8 @@
 ## I'm a beginner YouTube vlogger and Frontend developer
 
 ### Latest YouTube videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+ <!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 ### Language and Tools
 ![React](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=0000ff)
