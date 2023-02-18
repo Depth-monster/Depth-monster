@@ -1,7 +1,4 @@
-
 [![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior)
-
-
 
 ## I'm a beginner YouTube vlogger and Frontend developer
 
@@ -15,9 +12,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=80b3ff)
 ![JS](https://img.shields.io/badge/-JS-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ffff66)
 
-
-
-
 ### Follow Me
 [![YouTube](https://img.shields.io/badge/-youtube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@reactjunior)
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1a1a?style=for-the-badge&logo=Telegram&logoColor=80bfff)](https://t.me/type_me_something)
@@ -27,3 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
 
 ![GitHub Stats](https://github-readme-stats-git-masterestaa-rickstaa.vercel.app/api?username=depth-monster&theme=radical)
+
+<!-- Add YouTube video -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MIeLvohdgj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
