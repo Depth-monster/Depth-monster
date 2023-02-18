@@ -33,3 +33,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depth-monster&langs_count=10&layout=compact&theme=radical)
 ![Contribution graph](https://activity-graph.herokuapp.com/graph?username=depth-monster&custom_title=Contribution%20Graph&bg_color=000000&color=FFFFFF&line=00FF00)
+![Repository stats](https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
