@@ -34,7 +34,7 @@
   <a href="https://www.youtube.com/watch?v=VVkLJcGzKeI">
     <img src="http://img.youtube.com/vi/VVkLJcGzKeI/0.jpg" alt="Alt text for your video">
   </a>
-    <a href="https://www.youtube.com/watch?v=4fuKkdNAQqg">
+    <a target=_alt href="https://www.youtube.com/watch?v=4fuKkdNAQqg">
     <img src="http://img.youtube.com/vi/4fuKkdNAQqg/0.jpg" alt="Alt text for your video">
   </a>
 </p>
