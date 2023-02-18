@@ -31,10 +31,10 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VVkLJcGzKeI">
+  <a href="https://www.youtube.com/watch?v=VVkLJcGzKeI" target="_blank">
     <img src="http://img.youtube.com/vi/VVkLJcGzKeI/0.jpg" alt="Alt text for your video">
   </a>
-    <a target=_alt href="https://www.youtube.com/watch?v=4fuKkdNAQqg">
+    <a  href="https://www.youtube.com/watch?v=4fuKkdNAQqg" target="_blank">
     <img src="http://img.youtube.com/vi/4fuKkdNAQqg/0.jpg" alt="Alt text for your video">
   </a>
 </p>
