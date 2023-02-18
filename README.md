@@ -35,4 +35,5 @@
 ![Repository stats](https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical" alt="GitHub Stats">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depth-monster&langs_count=10&layout=compact&theme=radical)
 </div>
