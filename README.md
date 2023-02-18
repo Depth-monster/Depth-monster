@@ -1,6 +1,9 @@
 [![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior)
 
 ## I'm a beginner YouTube vlogger and Frontend developer
+
+
+### Latest YouTube videos
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VVkLJcGzKeI" target="_blank">
     <img src="http://img.youtube.com/vi/VVkLJcGzKeI/0.jpg" alt="Alt text for your video">
@@ -10,10 +13,6 @@
   </a>
 </p>
 
-
-### Latest YouTube videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![React](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=0000ff)
