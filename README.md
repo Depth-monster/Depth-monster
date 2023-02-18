@@ -1,6 +1,15 @@
 [![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior)
 
 ## I'm a beginner YouTube vlogger and Frontend developer
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VVkLJcGzKeI" target="_blank">
+    <img src="http://img.youtube.com/vi/VVkLJcGzKeI/0.jpg" alt="Alt text for your video">
+  </a>
+    <a  href="https://www.youtube.com/watch?v=4fuKkdNAQqg">
+    <img src="http://img.youtube.com/vi/4fuKkdNAQqg/0.jpg" target="_blank" alt="Alt text for your video">
+  </a>
+</p>
+
 
 ### Latest YouTube videos
 <!-- YOUTUBE:START -->
@@ -20,15 +29,10 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1a1a1a?style=for-the-badge&logo=Vk&logoColor=80bfff)](https://vk.com/azat_hajy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
 
+
+### Github
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depth-monster&langs_count=10&layout=compact&theme=radical)
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=VVkLJcGzKeI" target="_blank">
-    <img src="http://img.youtube.com/vi/VVkLJcGzKeI/0.jpg" alt="Alt text for your video">
-  </a>
-    <a  href="https://www.youtube.com/watch?v=4fuKkdNAQqg">
-    <img src="http://img.youtube.com/vi/4fuKkdNAQqg/0.jpg" target="_blank" alt="Alt text for your video">
-  </a>
-</p>
+
 
