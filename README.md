@@ -23,9 +23,11 @@
 ![GitHub Stats](https://github-readme-stats-git-masterestaa-rickstaa.vercel.app/api?username=depth-monster&theme=radical)
 
 <!-- Add YouTube video -->
-[![Alt text for your video](http://img.youtube.com/vi/VVkLJcGzKeI/0.jpg)](http://www.youtube.com/watch?v=VVkLJcGzKeI)
+<!-- [![Alt text for your video](http://img.youtube.com/vi/VVkLJcGzKeI/0.jpg)](http://www.youtube.com/watch?v=VVkLJcGzKeI)
 
-[![Alt text for your video](http://img.youtube.com/vi/4fuKkdNAQqg/0.jpg)](http://www.youtube.com/watch?v=4fuKkdNAQqg)
+[![Alt text for your video](http://img.youtube.com/vi/4fuKkdNAQqg/0.jpg)](http://www.youtube.com/watch?v=4fuKkdNAQqg)-->
+<!-- -->
+
 
 
 <p align="center">
