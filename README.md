@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depth-monster&langs_count=10&layout=compact&theme=radical)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VVkLJcGzKeI" target="_blank">
