@@ -20,7 +20,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1a1a1a?style=for-the-badge&logo=Vk&logoColor=80bfff)](https://vk.com/azat_hajy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
 
-![GitHub Stats](https://github-readme-stats-git-masterestaa-rickstaa.vercel.app/api?username=depth-monster&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical)
 
 <p align="center">
