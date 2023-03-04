@@ -29,11 +29,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
 
 
-### Github
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=depth-monster&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depth-monster&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
