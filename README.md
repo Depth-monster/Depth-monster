@@ -1,6 +1,6 @@
 [![Header](https://github.com/Depth-monster/Depth-monster/blob/main/assets/AzatX.png)](https://www.youtube.com/@reactjunior)
 
-## I'm a beginner Frontend developer
+## 
 
 
 ### Latest YouTube videos
