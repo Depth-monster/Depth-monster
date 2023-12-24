@@ -6,7 +6,7 @@
 ![JS](https://img.shields.io/badge/-JS-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ffff66)
 
 ### Follow Me
-[![YouTube](https://img.shields.io/badge/-youtube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@reactjunior)
+[comment]: <> ([![YouTube](https://img.shields.io/badge/-youtube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@reactjunior) )
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1a1a?style=for-the-badge&logo=Telegram&logoColor=80bfff)](https://t.me/type_me_something)
 [![Telegram Blog](https://img.shields.io/badge/-Telegram_Frontend-1a1a1a?style=for-the-badge&logo=Telegram&logoColor=80bfff)](https://t.me/jsjunior1)
 [![Instagram](https://img.shields.io/badge/-Instagram-1a1a1a?style=for-the-badge&logo=Instagram&logoColor=ff1aff)](https://www.instagram.com/azat_hajiev/)
