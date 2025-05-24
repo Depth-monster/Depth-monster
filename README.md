@@ -1,5 +1,15 @@
 
 ### Language and Tools
+![Docker](https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1a1a1a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Ansible](https://img.shields.io/badge/-Ansible-1a1a1a?style=for-the-badge&logo=ansible&logoColor=EE0000)
+![Terraform](https://img.shields.io/badge/-Terraform-1a1a1a?style=for-the-badge&logo=terraform&logoColor=5F43E9)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-1a1a1a?style=for-the-badge&logo=prometheus&logoColor=orange)
+![Grafana](https://img.shields.io/badge/-Grafana-1a1a1a?style=for-the-badge&logo=grafana&logoColor=F46800)
+![NGINX](https://img.shields.io/badge/-Nginx-1a1a1a?style=for-the-badge&logo=nginx&logoColor=00e676)
+![Linux](https://img.shields.io/badge/-Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=yellow)
+
 ![Python](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=0000ff)
 ![Redux](https://img.shields.io/badge/-Redux-1a1a1a?style=for-the-badge&logo=redux&logoColor=0066ff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=80b3ff)
