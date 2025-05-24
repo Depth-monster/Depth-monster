@@ -17,7 +17,7 @@
 [![Telegram Blog](https://img.shields.io/badge/-Telegram_Frontend-1a1a1a?style=for-the-badge&logo=Telegram&logoColor=80bfff)](https://t.me/localllhost)
 <!--  [![Instagram](https://img.shields.io/badge/-Instagram-1a1a1a?style=for-the-badge&logo=Instagram&logoColor=ff1aff)](https://www.instagram.com//)-->
 <!-- [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1a1a1a?style=for-the-badge&logo=Vk&logoColor=80bfff)](https://vk.com/) -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)](https://www.linkedin.com/in/azat-hajyyev-7769132ab/)
 
 
 
