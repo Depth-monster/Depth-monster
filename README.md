@@ -10,11 +10,6 @@
 ![NGINX](https://img.shields.io/badge/-Nginx-1a1a1a?style=for-the-badge&logo=nginx&logoColor=00e676)
 ![Linux](https://img.shields.io/badge/-Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=yellow)
 
-![Python](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=0000ff)
-![Redux](https://img.shields.io/badge/-Redux-1a1a1a?style=for-the-badge&logo=redux&logoColor=0066ff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=80b3ff)
-![JS](https://img.shields.io/badge/-JS-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ffff66)
-
 ### Follow Me
 [![Tryhackme](https://img.shields.io/badge/-tryhackme-1a1a1a?style=for-the-badge&logo=Tryhackme&logoColor=3333ff)](https://tryhackme.com/p/useruser007)
 [![YouTube](https://img.shields.io/badge/-youtube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@) 
