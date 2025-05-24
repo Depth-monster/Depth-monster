@@ -15,8 +15,8 @@
 [![YouTube](https://img.shields.io/badge/-youtube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@) 
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1a1a?style=for-the-badge&logo=Telegram&logoColor=80bfff)](https://t.me/type_me_something)
 [![Telegram Blog](https://img.shields.io/badge/-Telegram_Frontend-1a1a1a?style=for-the-badge&logo=Telegram&logoColor=80bfff)](https://t.me/localllhost)
-<!-- --> [![Instagram](https://img.shields.io/badge/-Instagram-1a1a1a?style=for-the-badge&logo=Instagram&logoColor=ff1aff)](https://www.instagram.com//)
-<!-- -->[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1a1a1a?style=for-the-badge&logo=Vk&logoColor=80bfff)](https://vk.com/)
+<!--  [![Instagram](https://img.shields.io/badge/-Instagram-1a1a1a?style=for-the-badge&logo=Instagram&logoColor=ff1aff)](https://www.instagram.com//)-->
+<!-- [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1a1a1a?style=for-the-badge&logo=Vk&logoColor=80bfff)](https://vk.com/) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=LinkedIn&logoColor=3333ff)]()
 
 
